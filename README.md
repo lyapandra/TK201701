@@ -26,3 +26,8 @@
 2. TODO:
 =============
 2.1. Клонувати проект https://github.com/lyapandra/TK201701
+
+=============
+TO READ
+=============
+http://docs.oracle.com/javase/8/docs/
