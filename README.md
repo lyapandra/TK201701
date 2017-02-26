@@ -20,6 +20,6 @@
     http://www.syntevo.com/smartgit/download
     which git (/usr/bin)
 
-* - за бажанням
+Зірочка (*) - даний пункт виконується за бажанням
 
 2. Клонувати проект https://github.com/lyapandra/TK201701
