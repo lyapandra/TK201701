@@ -2,27 +2,27 @@
 ===========
 1. Install:
 ===========
-1. Mint
+1.1. Mint
     https://www.linuxmint.com/download.php
     
-2. JVM
+1.2. JVM
     http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
     
-3.* BlueJ
+1.3. BlueJ*
     http://www.bluej.org/
     
-4.* IntelliJ
+1.4. IntelliJ*
     https://www.jetbrains.com/idea/download/#section=linux
     
-5. git
+1.5. git
 
-6.* SmartGit 
+1.6. SmartGit* 
     http://www.syntevo.com/smartgit/download
     which git (/usr/bin)
 
 Зірочка (*) - даний пункт виконується за бажанням
 
 =============
-TODO:
+2. TODO:
 =============
-2. Клонувати проект https://github.com/lyapandra/TK201701
+2.1. Клонувати проект https://github.com/lyapandra/TK201701
