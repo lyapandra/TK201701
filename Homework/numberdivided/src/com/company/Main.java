@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Введіть кількість чисел(наприклад 1000):");
         int input = in.nextInt();
         for (int i = 1; i <=input; i++) {
-            if ((i % 3) == 0 && (i % 9) == 0)
+            if ((i % 3) == 0 || (i % 9) == 0)
                 System.out.print(i + " ");
         }
     }
