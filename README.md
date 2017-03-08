@@ -12,13 +12,14 @@ Install:
     http://www.bluej.org/
     
 1.4. IntelliJ*
-    https://www.jetbrains.com/idea/download/#section=linux Для встановлення IntelliJ потрібно:
-    ---1. скачати. За замовчуванням в ~/Downloads
-    ---1. розархівувати 
-    ---1. створити каталог для встановлення. Рекомендую в /opt/
-    ---1. cкопіювати з ~/Downloads в /opt/
-    ---1. запустити /opt/IntelliJ/bin/IntelliJ.sh
-    ```sh
+    https://www.jetbrains.com/idea/download/#section=linux Для встановлення IntelliJ потрібно:  
+        1. скачати. За замовчуванням в ~/Downloads.
+        2. розархівувати.
+        3. створити каталог для встановлення. Рекомендую в /opt/
+        4. cкопіювати з ~/Downloads в /opt/
+        5. запустити /opt/IntelliJ/bin/IntelliJ.sh
+
+```sh
 127.0.0.1:8000
 ```
     
