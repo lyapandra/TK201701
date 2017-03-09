@@ -23,3 +23,9 @@ hs_err_pid*
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
+
+bubbleSort/.idea/**/workspace.xml
+bubbleSort/.idea/**/tasks.xml
+bubbleSort/.idea/dictionaries
+# Sensitive or high-churn files:
+bubbleSort/.idea/**
